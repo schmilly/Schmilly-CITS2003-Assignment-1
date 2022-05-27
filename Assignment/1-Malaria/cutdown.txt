@@ -1,0 +1,2033 @@
+Afghanistan,2018,29
+Afghanistan,2017,27
+Afghanistan,2016,26
+Afghanistan,2015,15
+Afghanistan,2014,13
+Afghanistan,2013,9
+Afghanistan,2012,11
+Afghanistan,2011,19
+Afghanistan,2010,15
+Afghanistan,2009,15
+Afghanistan,2008,18
+Afghanistan,2007,22
+Afghanistan,2006,21
+Afghanistan,2005,27
+Afghanistan,2004,38
+Afghanistan,2003,68
+Afghanistan,2002,104
+Afghanistan,2001,92
+Afghanistan,2000,96
+Algeria,2018,0
+Algeria,2017,0
+Algeria,2016,0
+Algeria,2015,0
+Algeria,2014,0
+Algeria,2013,0
+Algeria,2012,0
+Algeria,2011,0
+Algeria,2010,0
+Algeria,2009,0
+Algeria,2008,0
+Algeria,2007,0
+Algeria,2006,0
+Algeria,2005,0
+Algeria,2004,0
+Algeria,2003,0
+Algeria,2002,0
+Algeria,2001,0
+Algeria,2000,0
+Angola,2018,229
+Angola,2017,229
+Angola,2016,220
+Angola,2015,200
+Angola,2014,188
+Angola,2013,181
+Angola,2012,174
+Angola,2011,176
+Angola,2010,186
+Angola,2009,204
+Angola,2008,241
+Angola,2007,287
+Angola,2006,314
+Angola,2005,324
+Angola,2004,320
+Angola,2003,315
+Angola,2002,312
+Angola,2001,328
+Angola,2000,324
+Argentina,2018,0
+Argentina,2017,0
+Argentina,2016,0
+Argentina,2015,0
+Argentina,2014,0
+Argentina,2013,0
+Argentina,2012,0
+Argentina,2011,0
+Argentina,2010,0
+Argentina,2009,0
+Argentina,2008,1
+Argentina,2007,2
+Argentina,2006,1
+Argentina,2005,1
+Argentina,2004,1
+Argentina,2003,1
+Argentina,2002,1
+Argentina,2001,1
+Argentina,2000,2
+Armenia,2018,0
+Armenia,2017,0
+Armenia,2016,0
+Armenia,2015,0
+Armenia,2014,0
+Armenia,2013,0
+Armenia,2012,0
+Armenia,2011,0
+Armenia,2010,0
+Armenia,2009,0
+Armenia,2008,0
+Armenia,2007,0
+Armenia,2006,0
+Armenia,2005,0
+Armenia,2004,0
+Armenia,2003,0
+Armenia,2002,0
+Armenia,2001,0
+Armenia,2000,0
+Azerbaijan,2018,0
+Azerbaijan,2017,0
+Azerbaijan,2016,0
+Azerbaijan,2015,0
+Azerbaijan,2014,0
+Azerbaijan,2013,0
+Azerbaijan,2012,0
+Azerbaijan,2011,0
+Azerbaijan,2010,0
+Azerbaijan,2009,0
+Azerbaijan,2008,0
+Azerbaijan,2007,1
+Azerbaijan,2006,1
+Azerbaijan,2005,1
+Azerbaijan,2004,2
+Azerbaijan,2003,3
+Azerbaijan,2002,3
+Azerbaijan,2001,6
+Azerbaijan,2000,8
+Bangladesh,2018,1
+Bangladesh,2017,2
+Bangladesh,2016,2
+Bangladesh,2015,3
+Bangladesh,2014,3
+Bangladesh,2013,2
+Bangladesh,2012,2
+Bangladesh,2011,4
+Bangladesh,2010,4
+Bangladesh,2009,8
+Bangladesh,2008,8
+Bangladesh,2007,5
+Bangladesh,2006,5
+Bangladesh,2005,6
+Bangladesh,2004,6
+Bangladesh,2003,6
+Bangladesh,2002,7
+Bangladesh,2001,7
+Bangladesh,2000,7
+Belize,2018,0
+Belize,2017,0
+Belize,2016,0
+Belize,2015,0
+Belize,2014,0
+Belize,2013,0
+Belize,2012,0
+Belize,2011,0
+Belize,2010,1
+Belize,2009,1
+Belize,2008,3
+Belize,2007,4
+Belize,2006,4
+Belize,2005,8
+Belize,2004,6
+Belize,2003,6
+Belize,2002,6
+Belize,2001,7
+Belize,2000,9
+Benin,2018,386
+Benin,2017,400
+Benin,2016,422
+Benin,2015,412
+Benin,2014,399
+Benin,2013,395
+Benin,2012,378
+Benin,2011,370
+Benin,2010,388
+Benin,2009,418
+Benin,2008,453
+Benin,2007,480
+Benin,2006,493
+Benin,2005,487
+Benin,2004,475
+Benin,2003,454
+Benin,2002,435
+Benin,2001,429
+Benin,2000,411
+Bhutan,2018,0
+Bhutan,2017,0
+Bhutan,2016,0
+Bhutan,2015,0
+Bhutan,2014,0
+Bhutan,2013,0
+Bhutan,2012,0
+Bhutan,2011,0
+Bhutan,2010,1
+Bhutan,2009,2
+Bhutan,2008,1
+Bhutan,2007,2
+Bhutan,2006,4
+Bhutan,2005,4
+Bhutan,2004,6
+Bhutan,2003,8
+Bhutan,2002,14
+Bhutan,2001,13
+Bhutan,2000,14
+Bolivia (Plurinational State of),2018,1
+Bolivia (Plurinational State of),2017,1
+Bolivia (Plurinational State of),2016,2
+Bolivia (Plurinational State of),2015,2
+Bolivia (Plurinational State of),2014,2
+Bolivia (Plurinational State of),2013,2
+Bolivia (Plurinational State of),2012,2
+Bolivia (Plurinational State of),2011,2
+Bolivia (Plurinational State of),2010,4
+Bolivia (Plurinational State of),2009,3
+Bolivia (Plurinational State of),2008,3
+Bolivia (Plurinational State of),2007,5
+Bolivia (Plurinational State of),2006,8
+Bolivia (Plurinational State of),2005,9
+Bolivia (Plurinational State of),2004,5
+Bolivia (Plurinational State of),2003,7
+Bolivia (Plurinational State of),2002,5
+Bolivia (Plurinational State of),2001,6
+Bolivia (Plurinational State of),2000,12
+Botswana,2018,1
+Botswana,2017,2
+Botswana,2016,1
+Botswana,2015,0
+Botswana,2014,2
+Botswana,2013,1
+Botswana,2012,0
+Botswana,2011,1
+Botswana,2010,2
+Botswana,2009,2
+Botswana,2008,2
+Botswana,2007,1
+Botswana,2006,4
+Botswana,2005,1
+Botswana,2004,1
+Botswana,2003,2
+Botswana,2002,3
+Botswana,2001,7
+Botswana,2000,18
+Brazil,2018,5
+Brazil,2017,5
+Brazil,2016,3
+Brazil,2015,4
+Brazil,2014,4
+Brazil,2013,5
+Brazil,2012,6
+Brazil,2011,7
+Brazil,2010,10
+Brazil,2009,8
+Brazil,2008,9
+Brazil,2007,14
+Brazil,2006,15
+Brazil,2005,17
+Brazil,2004,14
+Brazil,2003,13
+Brazil,2002,11
+Brazil,2001,13
+Brazil,2000,21
+Burkina Faso,2018,399
+Burkina Faso,2017,400
+Burkina Faso,2016,402
+Burkina Faso,2015,400
+Burkina Faso,2014,436
+Burkina Faso,2013,488
+Burkina Faso,2012,528
+Burkina Faso,2011,540
+Burkina Faso,2010,551
+Burkina Faso,2009,552
+Burkina Faso,2008,533
+Burkina Faso,2007,504
+Burkina Faso,2006,494
+Burkina Faso,2005,507
+Burkina Faso,2004,537
+Burkina Faso,2003,566
+Burkina Faso,2002,581
+Burkina Faso,2001,589
+Burkina Faso,2000,589
+Burundi,2018,250
+Burundi,2017,250
+Burundi,2016,226
+Burundi,2015,166
+Burundi,2014,142
+Burundi,2013,141
+Burundi,2012,154
+Burundi,2011,184
+Burundi,2010,210
+Burundi,2009,221
+Burundi,2008,223
+Burundi,2007,223
+Burundi,2006,236
+Burundi,2005,262
+Burundi,2004,308
+Burundi,2003,356
+Burundi,2002,391
+Burundi,2001,431
+Burundi,2000,443
+Cabo Verde,2018,0
+Cabo Verde,2017,3
+Cabo Verde,2016,0
+Cabo Verde,2015,0
+Cabo Verde,2014,0
+Cabo Verde,2013,0
+Cabo Verde,2012,0
+Cabo Verde,2011,0
+Cabo Verde,2010,0
+Cabo Verde,2009,1
+Cabo Verde,2008,0
+Cabo Verde,2007,0
+Cabo Verde,2006,1
+Cabo Verde,2005,1
+Cabo Verde,2004,0
+Cabo Verde,2003,1
+Cabo Verde,2002,1
+Cabo Verde,2001,1
+Cabo Verde,2000,1
+Cambodia,2018,24
+Cambodia,2017,18
+Cambodia,2016,11
+Cambodia,2015,20
+Cambodia,2014,22
+Cambodia,2013,16
+Cambodia,2012,25
+Cambodia,2011,36
+Cambodia,2010,35
+Cambodia,2009,43
+Cambodia,2008,22
+Cambodia,2007,20
+Cambodia,2006,46
+Cambodia,2005,41
+Cambodia,2004,44
+Cambodia,2003,51
+Cambodia,2002,39
+Cambodia,2001,44
+Cambodia,2000,78
+Cameroon,2018,247
+Cameroon,2017,262
+Cameroon,2016,264
+Cameroon,2015,255
+Cameroon,2014,244
+Cameroon,2013,243
+Cameroon,2012,245
+Cameroon,2011,265
+Cameroon,2010,296
+Cameroon,2009,323
+Cameroon,2008,359
+Cameroon,2007,387
+Cameroon,2006,403
+Cameroon,2005,412
+Cameroon,2004,412
+Cameroon,2003,395
+Cameroon,2002,383
+Cameroon,2001,387
+Cameroon,2000,386
+Central African Republic,2018,347
+Central African Republic,2017,347
+Central African Republic,2016,362
+Central African Republic,2015,380
+Central African Republic,2014,393
+Central African Republic,2013,407
+Central African Republic,2012,413
+Central African Republic,2011,419
+Central African Republic,2010,435
+Central African Republic,2009,449
+Central African Republic,2008,462
+Central African Republic,2007,471
+Central African Republic,2006,473
+Central African Republic,2005,472
+Central African Republic,2004,471
+Central African Republic,2003,462
+Central African Republic,2002,454
+Central African Republic,2001,457
+Central African Republic,2000,459
+Chad,2018,165
+Chad,2017,172
+Chad,2016,170
+Chad,2015,167
+Chad,2014,170
+Chad,2013,179
+Chad,2012,195
+Chad,2011,211
+Chad,2010,226
+Chad,2009,223
+Chad,2008,215
+Chad,2007,211
+Chad,2006,206
+Chad,2005,199
+Chad,2004,196
+Chad,2003,204
+Chad,2002,211
+Chad,2001,245
+Chad,2000,242
+China,2018,0
+China,2017,0
+China,2016,0
+China,2015,0
+China,2014,0
+China,2013,0
+China,2012,0
+China,2011,0
+China,2010,0
+China,2009,0
+China,2008,0
+China,2007,0
+China,2006,0
+China,2005,0
+China,2004,0
+China,2003,0
+China,2002,0
+China,2001,0
+China,2000,0
+Colombia,2018,9
+Colombia,2017,7
+Colombia,2016,11
+Colombia,2015,7
+Colombia,2014,5
+Colombia,2013,7
+Colombia,2012,8
+Colombia,2011,8
+Colombia,2010,16
+Colombia,2009,11
+Colombia,2008,11
+Colombia,2007,18
+Colombia,2006,17
+Colombia,2005,18
+Colombia,2004,21
+Colombia,2003,28
+Colombia,2002,32
+Colombia,2001,37
+Colombia,2000,24
+Comoros,2018,19
+Comoros,2017,4
+Comoros,2016,1
+Comoros,2015,2
+Comoros,2014,3
+Comoros,2013,72
+Comoros,2012,69
+Comoros,2011,35
+Comoros,2010,53
+Comoros,2009,58
+Comoros,2008,59
+Comoros,2007,61
+Comoros,2006,62
+Comoros,2005,64
+Comoros,2004,65
+Comoros,2003,67
+Comoros,2002,68
+Comoros,2001,70
+Comoros,2000,72
+Congo,2018,235
+Congo,2017,241
+Congo,2016,233
+Congo,2015,227
+Congo,2014,232
+Congo,2013,231
+Congo,2012,225
+Congo,2011,224
+Congo,2010,221
+Congo,2009,226
+Congo,2008,249
+Congo,2007,282
+Congo,2006,306
+Congo,2005,323
+Congo,2004,335
+Congo,2003,339
+Congo,2002,348
+Congo,2001,373
+Congo,2000,385
+Costa Rica,2018,0
+Costa Rica,2017,0
+Costa Rica,2016,0
+Costa Rica,2015,0
+Costa Rica,2014,0
+Costa Rica,2013,0
+Costa Rica,2012,0
+Costa Rica,2011,0
+Costa Rica,2010,0
+Costa Rica,2009,0
+Costa Rica,2008,1
+Costa Rica,2007,1
+Costa Rica,2006,2
+Costa Rica,2005,2
+Costa Rica,2004,1
+Costa Rica,2003,0
+Costa Rica,2002,1
+Costa Rica,2001,1
+Costa Rica,2000,1
+Côte d’Ivoire,2018,331
+Côte d’Ivoire,2017,362
+Côte d’Ivoire,2016,355
+Côte d’Ivoire,2015,320
+Côte d’Ivoire,2014,315
+Côte d’Ivoire,2013,339
+Côte d’Ivoire,2012,396
+Côte d’Ivoire,2011,442
+Côte d’Ivoire,2010,469
+Côte d’Ivoire,2009,495
+Côte d’Ivoire,2008,510
+Côte d’Ivoire,2007,510
+Côte d’Ivoire,2006,507
+Côte d’Ivoire,2005,510
+Côte d’Ivoire,2004,519
+Côte d’Ivoire,2003,520
+Côte d’Ivoire,2002,520
+Côte d’Ivoire,2001,520
+Côte d’Ivoire,2000,515
+Democratic People's Republic of Korea,2018,0
+Democratic People's Republic of Korea,2017,0
+Democratic People's Republic of Korea,2016,0
+Democratic People's Republic of Korea,2015,1
+Democratic People's Republic of Korea,2014,1
+Democratic People's Republic of Korea,2013,1
+Democratic People's Republic of Korea,2012,2
+Democratic People's Republic of Korea,2011,2
+Democratic People's Republic of Korea,2010,1
+Democratic People's Republic of Korea,2009,2
+Democratic People's Republic of Korea,2008,2
+Democratic People's Republic of Korea,2007,0
+Democratic People's Republic of Korea,2006,1
+Democratic People's Republic of Korea,2005,1
+Democratic People's Republic of Korea,2004,3
+Democratic People's Republic of Korea,2003,2
+Democratic People's Republic of Korea,2002,2
+Democratic People's Republic of Korea,2001,16
+Democratic People's Republic of Korea,2000,10
+Democratic Republic of the Congo,2018,320
+Democratic Republic of the Congo,2017,329
+Democratic Republic of the Congo,2016,323
+Democratic Republic of the Congo,2015,309
+Democratic Republic of the Congo,2014,308
+Democratic Republic of the Congo,2013,328
+Democratic Republic of the Congo,2012,363
+Democratic Republic of the Congo,2011,400
+Democratic Republic of the Congo,2010,428
+Democratic Republic of the Congo,2009,452
+Democratic Republic of the Congo,2008,471
+Democratic Republic of the Congo,2007,482
+Democratic Republic of the Congo,2006,485
+Democratic Republic of the Congo,2005,485
+Democratic Republic of the Congo,2004,483
+Democratic Republic of the Congo,2003,476
+Democratic Republic of the Congo,2002,470
+Democratic Republic of the Congo,2001,474
+Democratic Republic of the Congo,2000,476
+Djibouti,2018,35
+Djibouti,2017,21
+Djibouti,2016,20
+Djibouti,2015,14
+Djibouti,2014,14
+Djibouti,2013,3
+Djibouti,2012,3
+Djibouti,2011,3
+Djibouti,2010,2
+Djibouti,2009,4
+Djibouti,2008,4
+Djibouti,2007,4
+Djibouti,2006,4
+Djibouti,2005,4
+Djibouti,2004,4
+Djibouti,2003,4
+Djibouti,2002,4
+Djibouti,2001,5
+Djibouti,2000,5
+Dominican Republic,2018,0
+Dominican Republic,2017,0
+Dominican Republic,2016,0
+Dominican Republic,2015,0
+Dominican Republic,2014,0
+Dominican Republic,2013,0
+Dominican Republic,2012,0
+Dominican Republic,2011,0
+Dominican Republic,2010,1
+Dominican Republic,2009,0
+Dominican Republic,2008,0
+Dominican Republic,2007,1
+Dominican Republic,2006,1
+Dominican Republic,2005,1
+Dominican Republic,2004,1
+Dominican Republic,2003,0
+Dominican Republic,2002,0
+Dominican Republic,2001,0
+Dominican Republic,2000,0
+Ecuador,2018,3
+Ecuador,2017,3
+Ecuador,2016,2
+Ecuador,2015,1
+Ecuador,2014,1
+Ecuador,2013,1
+Ecuador,2012,1
+Ecuador,2011,3
+Ecuador,2010,4
+Ecuador,2009,10
+Ecuador,2008,12
+Ecuador,2007,20
+Ecuador,2006,24
+Ecuador,2005,42
+Ecuador,2004,73
+Ecuador,2003,134
+Ecuador,2002,227
+Ecuador,2001,289
+Ecuador,2000,283
+Egypt,2018,0
+Egypt,2017,0
+Egypt,2016,0
+Egypt,2015,0
+Egypt,2014,0
+Egypt,2013,0
+Egypt,2012,0
+Egypt,2011,0
+Egypt,2010,0
+Egypt,2009,0
+Egypt,2008,0
+Egypt,2007,0
+Egypt,2006,0
+Egypt,2005,0
+Egypt,2004,0
+Egypt,2003,0
+Egypt,2002,0
+Egypt,2001,0
+Egypt,2000,0
+El Salvador,2018,0
+El Salvador,2017,0
+El Salvador,2016,0
+El Salvador,2015,0
+El Salvador,2014,0
+El Salvador,2013,0
+El Salvador,2012,0
+El Salvador,2011,0
+El Salvador,2010,0
+El Salvador,2009,0
+El Salvador,2008,0
+El Salvador,2007,0
+El Salvador,2006,0
+El Salvador,2005,0
+El Salvador,2004,0
+El Salvador,2003,0
+El Salvador,2002,0
+El Salvador,2001,0
+El Salvador,2000,1
+Equatorial Guinea,2018,269
+Equatorial Guinea,2017,286
+Equatorial Guinea,2016,307
+Equatorial Guinea,2015,340
+Equatorial Guinea,2014,361
+Equatorial Guinea,2013,366
+Equatorial Guinea,2012,358
+Equatorial Guinea,2011,342
+Equatorial Guinea,2010,340
+Equatorial Guinea,2009,351
+Equatorial Guinea,2008,378
+Equatorial Guinea,2007,398
+Equatorial Guinea,2006,404
+Equatorial Guinea,2005,412
+Equatorial Guinea,2004,418
+Equatorial Guinea,2003,415
+Equatorial Guinea,2002,410
+Equatorial Guinea,2001,407
+Equatorial Guinea,2000,405
+Eritrea,2018,29
+Eritrea,2017,34
+Eritrea,2016,26
+Eritrea,2015,19
+Eritrea,2014,33
+Eritrea,2013,15
+Eritrea,2012,16
+Eritrea,2011,24
+Eritrea,2010,26
+Eritrea,2009,9
+Eritrea,2008,7
+Eritrea,2007,13
+Eritrea,2006,6
+Eritrea,2005,10
+Eritrea,2004,6
+Eritrea,2003,19
+Eritrea,2002,13
+Eritrea,2001,23
+Eritrea,2000,22
+Eswatini,2018,1
+Eswatini,2017,2
+Eswatini,2016,1
+Eswatini,2015,1
+Eswatini,2014,2
+Eswatini,2013,3
+Eswatini,2012,2
+Eswatini,2011,2
+Eswatini,2010,1
+Eswatini,2009,0
+Eswatini,2008,0
+Eswatini,2007,0
+Eswatini,2006,1
+Eswatini,2005,1
+Eswatini,2004,2
+Eswatini,2003,1
+Eswatini,2002,2
+Eswatini,2001,5
+Eswatini,2000,3
+Ethiopia,2018,32
+Ethiopia,2017,37
+Ethiopia,2016,41
+Ethiopia,2015,53
+Ethiopia,2014,57
+Ethiopia,2013,112
+Ethiopia,2012,116
+Ethiopia,2011,116
+Ethiopia,2010,128
+Ethiopia,2009,123
+Ethiopia,2008,91
+Ethiopia,2007,122
+Ethiopia,2006,146
+Ethiopia,2005,161
+Ethiopia,2004,219
+Ethiopia,2003,184
+Ethiopia,2002,155
+Ethiopia,2001,157
+Ethiopia,2000,157
+Gabon,2018,248
+Gabon,2017,254
+Gabon,2016,271
+Gabon,2015,284
+Gabon,2014,286
+Gabon,2013,273
+Gabon,2012,246
+Gabon,2011,213
+Gabon,2010,178
+Gabon,2009,146
+Gabon,2008,119
+Gabon,2007,111
+Gabon,2006,124
+Gabon,2005,154
+Gabon,2004,207
+Gabon,2003,271
+Gabon,2002,324
+Gabon,2001,362
+Gabon,2000,383
+Gambia,2018,66
+Gambia,2017,53
+Gambia,2016,117
+Gambia,2015,195
+Gambia,2014,142
+Gambia,2013,237
+Gambia,2012,275
+Gambia,2011,257
+Gambia,2010,289
+Gambia,2009,298
+Gambia,2008,307
+Gambia,2007,316
+Gambia,2006,326
+Gambia,2005,336
+Gambia,2004,347
+Gambia,2003,359
+Gambia,2002,371
+Gambia,2001,383
+Gambia,2000,395
+Georgia,2018,0
+Georgia,2017,0
+Georgia,2016,0
+Georgia,2015,0
+Georgia,2014,0
+Georgia,2013,0
+Georgia,2012,0
+Georgia,2011,0
+Georgia,2010,0
+Georgia,2009,0
+Georgia,2008,0
+Georgia,2007,1
+Georgia,2006,1
+Georgia,2005,4
+Georgia,2004,6
+Georgia,2003,7
+Georgia,2002,11
+Georgia,2001,10
+Georgia,2000,6
+Ghana,2018,224
+Ghana,2017,213
+Ghana,2016,236
+Ghana,2015,277
+Ghana,2014,316
+Ghana,2013,349
+Ghana,2012,374
+Ghana,2011,380
+Ghana,2010,364
+Ghana,2009,351
+Ghana,2008,334
+Ghana,2007,322
+Ghana,2006,333
+Ghana,2005,339
+Ghana,2004,354
+Ghana,2003,373
+Ghana,2002,393
+Ghana,2001,422
+Ghana,2000,438
+Guatemala,2018,0
+Guatemala,2017,0
+Guatemala,2016,0
+Guatemala,2015,1
+Guatemala,2014,1
+Guatemala,2013,1
+Guatemala,2012,1
+Guatemala,2011,1
+Guatemala,2010,1
+Guatemala,2009,1
+Guatemala,2008,1
+Guatemala,2007,2
+Guatemala,2006,4
+Guatemala,2005,5
+Guatemala,2004,4
+Guatemala,2003,4
+Guatemala,2002,5
+Guatemala,2001,5
+Guatemala,2000,7
+Guinea,2018,284
+Guinea,2017,312
+Guinea,2016,332
+Guinea,2015,357
+Guinea,2014,381
+Guinea,2013,408
+Guinea,2012,428
+Guinea,2011,427
+Guinea,2010,415
+Guinea,2009,398
+Guinea,2008,370
+Guinea,2007,344
+Guinea,2006,336
+Guinea,2005,342
+Guinea,2004,370
+Guinea,2003,405
+Guinea,2002,428
+Guinea,2001,451
+Guinea,2000,458
+Guinea-Bissau,2018,123
+Guinea-Bissau,2017,78
+Guinea-Bissau,2016,71
+Guinea-Bissau,2015,80
+Guinea-Bissau,2014,94
+Guinea-Bissau,2013,113
+Guinea-Bissau,2012,129
+Guinea-Bissau,2011,141
+Guinea-Bissau,2010,134
+Guinea-Bissau,2009,114
+Guinea-Bissau,2008,89
+Guinea-Bissau,2007,73
+Guinea-Bissau,2006,78
+Guinea-Bissau,2005,98
+Guinea-Bissau,2004,146
+Guinea-Bissau,2003,227
+Guinea-Bissau,2002,311
+Guinea-Bissau,2001,396
+Guinea-Bissau,2000,475
+Guyana,2018,44
+Guyana,2017,33
+Guyana,2016,25
+Guyana,2015,23
+Guyana,2014,29
+Guyana,2013,76
+Guyana,2012,58
+Guyana,2011,55
+Guyana,2010,44
+Guyana,2009,27
+Guyana,2008,24
+Guyana,2007,21
+Guyana,2006,37
+Guyana,2005,73
+Guyana,2004,54
+Guyana,2003,52
+Guyana,2002,41
+Guyana,2001,51
+Guyana,2000,45
+Haiti,2018,2
+Haiti,2017,4
+Haiti,2016,4
+Haiti,2015,3
+Haiti,2014,3
+Haiti,2013,5
+Haiti,2012,7
+Haiti,2011,9
+Haiti,2010,9
+Haiti,2009,9
+Haiti,2008,10
+Haiti,2007,9
+Haiti,2006,10
+Haiti,2005,10
+Haiti,2004,11
+Haiti,2003,11
+Haiti,2002,11
+Haiti,2001,12
+Haiti,2000,12
+Honduras,2018,0
+Honduras,2017,0
+Honduras,2016,1
+Honduras,2015,1
+Honduras,2014,1
+Honduras,2013,1
+Honduras,2012,1
+Honduras,2011,1
+Honduras,2010,2
+Honduras,2009,2
+Honduras,2008,2
+Honduras,2007,2
+Honduras,2006,2
+Honduras,2005,3
+Honduras,2004,4
+Honduras,2003,3
+Honduras,2002,4
+Honduras,2001,6
+Honduras,2000,9
+India,2018,5
+India,2017,7
+India,2016,10
+India,2015,10
+India,2014,9
+India,2013,9
+India,2012,12
+India,2011,15
+India,2010,18
+India,2009,18
+India,2008,18
+India,2007,17
+India,2006,18
+India,2005,23
+India,2004,21
+India,2003,19
+India,2002,19
+India,2001,20
+India,2000,20
+Indonesia,2018,4
+Indonesia,2017,7
+Indonesia,2016,6
+Indonesia,2015,5
+Indonesia,2014,6
+Indonesia,2013,8
+Indonesia,2012,10
+Indonesia,2011,10
+Indonesia,2010,11
+Indonesia,2009,7
+Indonesia,2008,8
+Indonesia,2007,8
+Indonesia,2006,8
+Indonesia,2005,10
+Indonesia,2004,7
+Indonesia,2003,9
+Indonesia,2002,9
+Indonesia,2001,9
+Indonesia,2000,9
+Iran (Islamic Republic of),2018,0
+Iran (Islamic Republic of),2017,0
+Iran (Islamic Republic of),2016,0
+Iran (Islamic Republic of),2015,0
+Iran (Islamic Republic of),2014,0
+Iran (Islamic Republic of),2013,1
+Iran (Islamic Republic of),2012,1
+Iran (Islamic Republic of),2011,2
+Iran (Islamic Republic of),2010,2
+Iran (Islamic Republic of),2009,6
+Iran (Islamic Republic of),2008,11
+Iran (Islamic Republic of),2007,22
+Iran (Islamic Republic of),2006,22
+Iran (Islamic Republic of),2005,27
+Iran (Islamic Republic of),2004,20
+Iran (Islamic Republic of),2003,34
+Iran (Islamic Republic of),2002,23
+Iran (Islamic Republic of),2001,28
+Iran (Islamic Republic of),2000,29
+Iraq,2018,0
+Iraq,2017,0
+Iraq,2016,0
+Iraq,2015,0
+Iraq,2014,0
+Iraq,2013,0
+Iraq,2012,0
+Iraq,2011,0
+Iraq,2010,0
+Iraq,2009,0
+Iraq,2008,0
+Iraq,2007,0
+Iraq,2006,0
+Iraq,2005,0
+Iraq,2004,0
+Iraq,2003,0
+Iraq,2002,0
+Iraq,2001,0
+Iraq,2000,1
+Kazakhstan,2018,0
+Kazakhstan,2017,0
+Kazakhstan,2016,0
+Kazakhstan,2015,0
+Kazakhstan,2014,0
+Kazakhstan,2013,0
+Kazakhstan,2012,0
+Kazakhstan,2011,0
+Kazakhstan,2010,0
+Kazakhstan,2009,0
+Kazakhstan,2008,0
+Kazakhstan,2007,0
+Kazakhstan,2006,0
+Kazakhstan,2005,0
+Kazakhstan,2004,0
+Kazakhstan,2003,0
+Kazakhstan,2002,0
+Kazakhstan,2001,0
+Kazakhstan,2000,0
+Kenya,2018,70
+Kenya,2017,70
+Kenya,2016,70
+Kenya,2015,72
+Kenya,2014,84
+Kenya,2013,82
+Kenya,2012,73
+Kenya,2011,68
+Kenya,2010,68
+Kenya,2009,68
+Kenya,2008,68
+Kenya,2007,78
+Kenya,2006,100
+Kenya,2005,127
+Kenya,2004,166
+Kenya,2003,197
+Kenya,2002,207
+Kenya,2001,213
+Kenya,2000,213
+Kyrgyzstan,2018,0
+Kyrgyzstan,2017,0
+Kyrgyzstan,2016,0
+Kyrgyzstan,2015,0
+Kyrgyzstan,2014,0
+Kyrgyzstan,2013,0
+Kyrgyzstan,2012,0
+Kyrgyzstan,2011,0
+Kyrgyzstan,2010,0
+Kyrgyzstan,2009,0
+Kyrgyzstan,2008,0
+Kyrgyzstan,2007,0
+Kyrgyzstan,2006,0
+Kyrgyzstan,2005,0
+Kyrgyzstan,2004,0
+Kyrgyzstan,2003,0
+Kyrgyzstan,2002,1
+Kyrgyzstan,2001,0
+Kyrgyzstan,2000,0
+Lao People's Democratic Republic,2018,4
+Lao People's Democratic Republic,2017,6
+Lao People's Democratic Republic,2016,8
+Lao People's Democratic Republic,2015,22
+Lao People's Democratic Republic,2014,30
+Lao People's Democratic Republic,2013,23
+Lao People's Democratic Republic,2012,29
+Lao People's Democratic Republic,2011,11
+Lao People's Democratic Republic,2010,16
+Lao People's Democratic Republic,2009,15
+Lao People's Democratic Republic,2008,22
+Lao People's Democratic Republic,2007,22
+Lao People's Democratic Republic,2006,23
+Lao People's Democratic Republic,2005,13
+Lao People's Democratic Republic,2004,17
+Lao People's Democratic Republic,2003,20
+Lao People's Democratic Republic,2002,22
+Lao People's Democratic Republic,2001,30
+Lao People's Democratic Republic,2000,63
+Liberia,2018,362
+Liberia,2017,401
+Liberia,2016,386
+Liberia,2015,347
+Liberia,2014,338
+Liberia,2013,317
+Liberia,2012,308
+Liberia,2011,330
+Liberia,2010,346
+Liberia,2009,369
+Liberia,2008,383
+Liberia,2007,383
+Liberia,2006,389
+Liberia,2005,405
+Liberia,2004,429
+Liberia,2003,446
+Liberia,2002,462
+Liberia,2001,475
+Liberia,2000,478
+Madagascar,2018,82
+Madagascar,2017,76
+Madagascar,2016,57
+Madagascar,2015,97
+Madagascar,2014,46
+Madagascar,2013,65
+Madagascar,2012,71
+Madagascar,2011,37
+Madagascar,2010,42
+Madagascar,2009,43
+Madagascar,2008,23
+Madagascar,2007,23
+Madagascar,2006,35
+Madagascar,2005,36
+Madagascar,2004,47
+Madagascar,2003,68
+Madagascar,2002,54
+Madagascar,2001,68
+Madagascar,2000,57
+Malawi,2018,214
+Malawi,2017,216
+Malawi,2016,211
+Malawi,2015,217
+Malawi,2014,237
+Malawi,2013,268
+Malawi,2012,314
+Malawi,2011,363
+Malawi,2010,386
+Malawi,2009,394
+Malawi,2008,392
+Malawi,2007,370
+Malawi,2006,342
+Malawi,2005,330
+Malawi,2004,338
+Malawi,2003,364
+Malawi,2002,398
+Malawi,2001,426
+Malawi,2000,427
+Malaysia,2018,0
+Malaysia,2017,0
+Malaysia,2016,0
+Malaysia,2015,0
+Malaysia,2014,3
+Malaysia,2013,2
+Malaysia,2012,3
+Malaysia,2011,3
+Malaysia,2010,5
+Malaysia,2009,5
+Malaysia,2008,6
+Malaysia,2007,4
+Malaysia,2006,5
+Malaysia,2005,5
+Malaysia,2004,6
+Malaysia,2003,6
+Malaysia,2002,11
+Malaysia,2001,13
+Malaysia,2000,14
+Mali,2018,387
+Mali,2017,387
+Mali,2016,384
+Mali,2015,392
+Mali,2014,441
+Mali,2013,453
+Mali,2012,436
+Mali,2011,405
+Mali,2010,384
+Mali,2009,375
+Mali,2008,379
+Mali,2007,389
+Mali,2006,406
+Mali,2005,431
+Mali,2004,429
+Mali,2003,424
+Mali,2002,417
+Mali,2001,407
+Mali,2000,406
+Mauritania,2018,39
+Mauritania,2017,55
+Mauritania,2016,72
+Mauritania,2015,62
+Mauritania,2014,49
+Mauritania,2013,33
+Mauritania,2012,28
+Mauritania,2011,48
+Mauritania,2010,39
+Mauritania,2009,32
+Mauritania,2008,61
+Mauritania,2007,71
+Mauritania,2006,72
+Mauritania,2005,82
+Mauritania,2004,91
+Mauritania,2003,114
+Mauritania,2002,119
+Mauritania,2001,151
+Mauritania,2000,148
+Mexico,2018,0
+Mexico,2017,0
+Mexico,2016,0
+Mexico,2015,0
+Mexico,2014,0
+Mexico,2013,0
+Mexico,2012,0
+Mexico,2011,0
+Mexico,2010,1
+Mexico,2009,1
+Mexico,2008,1
+Mexico,2007,1
+Mexico,2006,1
+Mexico,2005,1
+Mexico,2004,2
+Mexico,2003,2
+Mexico,2002,2
+Mexico,2001,2
+Mexico,2000,4
+Morocco,2018,0
+Morocco,2017,0
+Morocco,2016,0
+Morocco,2015,0
+Morocco,2014,0
+Morocco,2013,0
+Morocco,2012,0
+Morocco,2011,0
+Morocco,2010,0
+Morocco,2009,0
+Morocco,2008,0
+Morocco,2007,0
+Morocco,2006,0
+Morocco,2005,0
+Morocco,2004,0
+Morocco,2003,0
+Morocco,2002,0
+Morocco,2001,0
+Morocco,2000,0
+Mozambique,2018,305
+Mozambique,2017,326
+Mozambique,2016,345
+Mozambique,2015,356
+Mozambique,2014,365
+Mozambique,2013,377
+Mozambique,2012,382
+Mozambique,2011,390
+Mozambique,2010,398
+Mozambique,2009,402
+Mozambique,2008,400
+Mozambique,2007,399
+Mozambique,2006,404
+Mozambique,2005,418
+Mozambique,2004,456
+Mozambique,2003,488
+Mozambique,2002,500
+Mozambique,2001,508
+Mozambique,2000,493
+Myanmar,2018,3
+Myanmar,2017,4
+Myanmar,2016,5
+Myanmar,2015,9
+Myanmar,2014,12
+Myanmar,2013,20
+Myanmar,2012,62
+Myanmar,2011,43
+Myanmar,2010,67
+Myanmar,2009,50
+Myanmar,2008,53
+Myanmar,2007,44
+Myanmar,2006,35
+Myanmar,2005,51
+Myanmar,2004,52
+Myanmar,2003,53
+Myanmar,2002,53
+Myanmar,2001,55
+Myanmar,2000,56
+Namibia,2018,27
+Namibia,2017,47
+Namibia,2016,22
+Namibia,2015,11
+Namibia,2014,14
+Namibia,2013,5
+Namibia,2012,3
+Namibia,2011,2
+Namibia,2010,2
+Namibia,2009,3
+Namibia,2008,7
+Namibia,2007,13
+Namibia,2006,44
+Namibia,2005,42
+Namibia,2004,70
+Namibia,2003,45
+Namibia,2002,48
+Namibia,2001,71
+Namibia,2000,58
+Nepal,2018,0
+Nepal,2017,0
+Nepal,2016,0
+Nepal,2015,1
+Nepal,2014,1
+Nepal,2013,1
+Nepal,2012,2
+Nepal,2011,3
+Nepal,2010,4
+Nepal,2009,3
+Nepal,2008,4
+Nepal,2007,6
+Nepal,2006,5
+Nepal,2005,5
+Nepal,2004,5
+Nepal,2003,10
+Nepal,2002,12
+Nepal,2001,8
+Nepal,2000,7
+Nicaragua,2018,7
+Nicaragua,2017,5
+Nicaragua,2016,3
+Nicaragua,2015,1
+Nicaragua,2014,1
+Nicaragua,2013,1
+Nicaragua,2012,1
+Nicaragua,2011,0
+Nicaragua,2010,0
+Nicaragua,2009,0
+Nicaragua,2008,0
+Nicaragua,2007,1
+Nicaragua,2006,2
+Nicaragua,2005,4
+Nicaragua,2004,4
+Nicaragua,2003,4
+Nicaragua,2002,4
+Nicaragua,2001,6
+Nicaragua,2000,14
+Niger,2018,357
+Niger,2017,357
+Niger,2016,359
+Niger,2015,370
+Niger,2014,400
+Niger,2013,421
+Niger,2012,431
+Niger,2011,428
+Niger,2010,426
+Niger,2009,419
+Niger,2008,409
+Niger,2007,387
+Niger,2006,371
+Niger,2005,355
+Niger,2004,363
+Niger,2003,347
+Niger,2002,328
+Niger,2001,318
+Niger,2000,317
+Nigeria,2018,292
+Nigeria,2017,283
+Nigeria,2016,281
+Nigeria,2015,296
+Nigeria,2014,314
+Nigeria,2013,329
+Nigeria,2012,348
+Nigeria,2011,373
+Nigeria,2010,399
+Nigeria,2009,417
+Nigeria,2008,425
+Nigeria,2007,421
+Nigeria,2006,418
+Nigeria,2005,415
+Nigeria,2004,411
+Nigeria,2003,409
+Nigeria,2002,413
+Nigeria,2001,429
+Nigeria,2000,439
+Oman,2018,0
+Oman,2017,0
+Oman,2016,0
+Oman,2015,0
+Oman,2014,0
+Oman,2013,0
+Oman,2012,0
+Oman,2011,0
+Oman,2010,0
+Oman,2009,0
+Oman,2008,0
+Oman,2007,0
+Oman,2006,0
+Oman,2005,0
+Oman,2004,0
+Oman,2003,0
+Oman,2002,0
+Oman,2001,0
+Oman,2000,0
+Pakistan,2018,3
+Pakistan,2017,5
+Pakistan,2016,6
+Pakistan,2015,5
+Pakistan,2014,7
+Pakistan,2013,8
+Pakistan,2012,9
+Pakistan,2011,11
+Pakistan,2010,8
+Pakistan,2009,6
+Pakistan,2008,5
+Pakistan,2007,5
+Pakistan,2006,5
+Pakistan,2005,5
+Pakistan,2004,4
+Pakistan,2003,6
+Pakistan,2002,7
+Pakistan,2001,7
+Pakistan,2000,7
+Panama,2018,0
+Panama,2017,0
+Panama,2016,0
+Panama,2015,0
+Panama,2014,0
+Panama,2013,0
+Panama,2012,0
+Panama,2011,0
+Panama,2010,0
+Panama,2009,0
+Panama,2008,0
+Panama,2007,0
+Panama,2006,1
+Panama,2005,1
+Panama,2004,2
+Panama,2003,2
+Panama,2002,1
+Panama,2001,0
+Panama,2000,0
+Papua New Guinea,2018,185
+Papua New Guinea,2017,178
+Papua New Guinea,2016,178
+Papua New Guinea,2015,132
+Papua New Guinea,2014,243
+Papua New Guinea,2013,215
+Papua New Guinea,2012,170
+Papua New Guinea,2011,140
+Papua New Guinea,2010,170
+Papua New Guinea,2009,248
+Papua New Guinea,2008,190
+Papua New Guinea,2007,205
+Papua New Guinea,2006,247
+Papua New Guinea,2005,239
+Papua New Guinea,2004,292
+Papua New Guinea,2003,230
+Papua New Guinea,2002,216
+Papua New Guinea,2001,254
+Papua New Guinea,2000,261
+Paraguay,2018,0
+Paraguay,2017,0
+Paraguay,2016,0
+Paraguay,2015,0
+Paraguay,2014,0
+Paraguay,2013,0
+Paraguay,2012,0
+Paraguay,2011,0
+Paraguay,2010,0
+Paraguay,2009,0
+Paraguay,2008,2
+Paraguay,2007,6
+Paraguay,2006,4
+Paraguay,2005,2
+Paraguay,2004,3
+Paraguay,2003,7
+Paraguay,2002,14
+Paraguay,2001,14
+Paraguay,2000,36
+Peru,2018,5
+Peru,2017,6
+Peru,2016,6
+Peru,2015,8
+Peru,2014,7
+Peru,2013,5
+Peru,2012,3
+Peru,2011,3
+Peru,2010,3
+Peru,2009,5
+Peru,2008,5
+Peru,2007,6
+Peru,2006,7
+Peru,2005,10
+Peru,2004,11
+Peru,2003,10
+Peru,2002,12
+Peru,2001,10
+Peru,2000,9
+Philippines,2018,0
+Philippines,2017,0
+Philippines,2016,0
+Philippines,2015,0
+Philippines,2014,0
+Philippines,2013,0
+Philippines,2012,0
+Philippines,2011,0
+Philippines,2010,1
+Philippines,2009,1
+Philippines,2008,1
+Philippines,2007,2
+Philippines,2006,2
+Philippines,2005,3
+Philippines,2004,3
+Philippines,2003,3
+Philippines,2002,3
+Philippines,2001,2
+Philippines,2000,3
+Republic of Korea,2018,0
+Republic of Korea,2017,0
+Republic of Korea,2016,0
+Republic of Korea,2015,0
+Republic of Korea,2014,0
+Republic of Korea,2013,0
+Republic of Korea,2012,0
+Republic of Korea,2011,0
+Republic of Korea,2010,0
+Republic of Korea,2009,0
+Republic of Korea,2008,0
+Republic of Korea,2007,1
+Republic of Korea,2006,1
+Republic of Korea,2005,0
+Republic of Korea,2004,0
+Republic of Korea,2003,0
+Republic of Korea,2002,1
+Republic of Korea,2001,1
+Republic of Korea,2000,1
+Rwanda,2018,487
+Rwanda,2017,538
+Rwanda,2016,586
+Rwanda,2015,342
+Rwanda,2014,220
+Rwanda,2013,121
+Rwanda,2012,71
+Rwanda,2011,39
+Rwanda,2010,126
+Rwanda,2009,158
+Rwanda,2008,72
+Rwanda,2007,91
+Rwanda,2006,154
+Rwanda,2005,155
+Rwanda,2004,127
+Rwanda,2003,145
+Rwanda,2002,172
+Rwanda,2001,213
+Rwanda,2000,223
+Sao Tome and Principe,2018,14
+Sao Tome and Principe,2017,11
+Sao Tome and Principe,2016,11
+Sao Tome and Principe,2015,10
+Sao Tome and Principe,2014,9
+Sao Tome and Principe,2013,48
+Sao Tome and Principe,2012,57
+Sao Tome and Principe,2011,46
+Sao Tome and Principe,2010,15
+Sao Tome and Principe,2009,35
+Sao Tome and Principe,2008,37
+Sao Tome and Principe,2007,15
+Sao Tome and Principe,2006,32
+Sao Tome and Principe,2005,115
+Sao Tome and Principe,2004,302
+Sao Tome and Principe,2003,284
+Sao Tome and Principe,2002,343
+Sao Tome and Principe,2001,291
+Sao Tome and Principe,2000,225
+Saudi Arabia,2018,0
+Saudi Arabia,2017,0
+Saudi Arabia,2016,0
+Saudi Arabia,2015,0
+Saudi Arabia,2014,0
+Saudi Arabia,2013,0
+Saudi Arabia,2012,0
+Saudi Arabia,2011,0
+Saudi Arabia,2010,0
+Saudi Arabia,2009,0
+Saudi Arabia,2008,0
+Saudi Arabia,2007,0
+Saudi Arabia,2006,1
+Saudi Arabia,2005,1
+Saudi Arabia,2004,1
+Saudi Arabia,2003,1
+Saudi Arabia,2002,2
+Saudi Arabia,2001,2
+Saudi Arabia,2000,4
+Senegal,2018,56
+Senegal,2017,52
+Senegal,2016,46
+Senegal,2015,70
+Senegal,2014,40
+Senegal,2013,68
+Senegal,2012,57
+Senegal,2011,50
+Senegal,2010,59
+Senegal,2009,57
+Senegal,2008,86
+Senegal,2007,102
+Senegal,2006,118
+Senegal,2005,111
+Senegal,2004,126
+Senegal,2003,165
+Senegal,2002,194
+Senegal,2001,240
+Senegal,2000,256
+Sierra Leone,2018,320
+Sierra Leone,2017,364
+Sierra Leone,2016,391
+Sierra Leone,2015,404
+Sierra Leone,2014,409
+Sierra Leone,2013,433
+Sierra Leone,2012,448
+Sierra Leone,2011,454
+Sierra Leone,2010,459
+Sierra Leone,2009,442
+Sierra Leone,2008,414
+Sierra Leone,2007,380
+Sierra Leone,2006,375
+Sierra Leone,2005,388
+Sierra Leone,2004,414
+Sierra Leone,2003,440
+Sierra Leone,2002,458
+Sierra Leone,2001,469
+Sierra Leone,2000,466
+Solomon Islands,2018,134
+Solomon Islands,2017,164
+Solomon Islands,2016,138
+Solomon Islands,2015,67
+Solomon Islands,2014,53
+Solomon Islands,2013,95
+Solomon Islands,2012,95
+Solomon Islands,2011,117
+Solomon Islands,2010,175
+Solomon Islands,2009,148
+Solomon Islands,2008,186
+Solomon Islands,2007,319
+Solomon Islands,2006,591
+Solomon Islands,2005,614
+Solomon Islands,2004,744
+Solomon Islands,2003,540
+Solomon Islands,2002,650
+Solomon Islands,2001,681
+Solomon Islands,2000,623
+Somalia,2018,34
+Somalia,2017,37
+Somalia,2016,37
+Somalia,2015,37
+Somalia,2014,32
+Somalia,2013,28
+Somalia,2012,24
+Somalia,2011,24
+Somalia,2010,30
+Somalia,2009,38
+Somalia,2008,63
+Somalia,2007,101
+Somalia,2006,120
+Somalia,2005,137
+Somalia,2004,120
+Somalia,2003,121
+Somalia,2002,126
+Somalia,2001,126
+Somalia,2000,126
+South Africa,2018,2
+South Africa,2017,4
+South Africa,2016,1
+South Africa,2015,0
+South Africa,2014,2
+South Africa,2013,2
+South Africa,2012,1
+South Africa,2011,2
+South Africa,2010,2
+South Africa,2009,1
+South Africa,2008,2
+South Africa,2007,1
+South Africa,2006,2
+South Africa,2005,2
+South Africa,2004,3
+South Africa,2003,3
+South Africa,2002,3
+South Africa,2001,6
+South Africa,2000,4
+South Sudan,2018,236
+South Sudan,2017,246
+South Sudan,2016,245
+South Sudan,2015,240
+South Sudan,2014,236
+South Sudan,2013,234
+South Sudan,2012,233
+South Sudan,2011,236
+South Sudan,2010,244
+South Sudan,2009,255
+South Sudan,2008,267
+South Sudan,2007,277
+South Sudan,2006,289
+South Sudan,2005,301
+South Sudan,2004,316
+South Sudan,2003,333
+South Sudan,2002,347
+South Sudan,2001,374
+South Sudan,2000,380
+Sri Lanka,2018,0
+Sri Lanka,2017,0
+Sri Lanka,2016,0
+Sri Lanka,2015,0
+Sri Lanka,2014,0
+Sri Lanka,2013,0
+Sri Lanka,2012,0
+Sri Lanka,2011,0
+Sri Lanka,2010,0
+Sri Lanka,2009,0
+Sri Lanka,2008,0
+Sri Lanka,2007,0
+Sri Lanka,2006,0
+Sri Lanka,2005,0
+Sri Lanka,2004,1
+Sri Lanka,2003,2
+Sri Lanka,2002,9
+Sri Lanka,2001,15
+Sri Lanka,2000,49
+Sudan,2018,47
+Sudan,2017,47
+Sudan,2016,42
+Sudan,2015,36
+Sudan,2014,33
+Sudan,2013,31
+Sudan,2012,30
+Sudan,2011,30
+Sudan (until 2011),2010,31
+Sudan (until 2011),2009,32
+Sudan (until 2011),2008,35
+Sudan (until 2011),2007,41
+Sudan (until 2011),2006,47
+Sudan (until 2011),2005,50
+Sudan (until 2011),2004,52
+Sudan (until 2011),2003,58
+Sudan (until 2011),2002,63
+Sudan (until 2011),2001,84
+Sudan (until 2011),2000,89
+Suriname,2018,0
+Suriname,2017,0
+Suriname,2016,1
+Suriname,2015,1
+Suriname,2014,5
+Suriname,2013,9
+Suriname,2012,7
+Suriname,2011,10
+Suriname,2010,23
+Suriname,2009,31
+Suriname,2008,35
+Suriname,2007,23
+Suriname,2006,44
+Suriname,2005,124
+Suriname,2004,115
+Suriname,2003,152
+Suriname,2002,180
+Suriname,2001,227
+Suriname,2000,163
+Syrian Arab Republic,2018,0
+Syrian Arab Republic,2017,0
+Syrian Arab Republic,2016,0
+Syrian Arab Republic,2015,0
+Syrian Arab Republic,2014,0
+Syrian Arab Republic,2013,0
+Syrian Arab Republic,2012,0
+Syrian Arab Republic,2011,0
+Syrian Arab Republic,2010,0
+Syrian Arab Republic,2009,0
+Syrian Arab Republic,2008,0
+Syrian Arab Republic,2007,0
+Syrian Arab Republic,2006,0
+Syrian Arab Republic,2005,0
+Syrian Arab Republic,2004,0
+Syrian Arab Republic,2003,0
+Syrian Arab Republic,2002,0
+Syrian Arab Republic,2001,0
+Syrian Arab Republic,2000,0
+Tajikistan,2018,0
+Tajikistan,2017,0
+Tajikistan,2016,0
+Tajikistan,2015,0
+Tajikistan,2014,0
+Tajikistan,2013,0
+Tajikistan,2012,0
+Tajikistan,2011,0
+Tajikistan,2010,0
+Tajikistan,2009,0
+Tajikistan,2008,0
+Tajikistan,2007,0
+Tajikistan,2006,1
+Tajikistan,2005,1
+Tajikistan,2004,2
+Tajikistan,2003,2
+Tajikistan,2002,3
+Tajikistan,2001,5
+Tajikistan,2000,9
+Thailand,2018,0
+Thailand,2017,1
+Thailand,2016,1
+Thailand,2015,1
+Thailand,2014,3
+Thailand,2013,3
+Thailand,2012,3
+Thailand,2011,2
+Thailand,2010,3
+Thailand,2009,3
+Thailand,2008,2
+Thailand,2007,3
+Thailand,2006,2
+Thailand,2005,2
+Thailand,2004,2
+Thailand,2003,3
+Thailand,2002,4
+Thailand,2001,5
+Thailand,2000,7
+Timor-Leste,2018,0
+Timor-Leste,2017,0
+Timor-Leste,2016,0
+Timor-Leste,2015,0
+Timor-Leste,2014,1
+Timor-Leste,2013,2
+Timor-Leste,2012,7
+Timor-Leste,2011,31
+Timor-Leste,2010,100
+Timor-Leste,2009,102
+Timor-Leste,2008,135
+Timor-Leste,2007,115
+Timor-Leste,2006,127
+Timor-Leste,2005,121
+Timor-Leste,2004,181
+Timor-Leste,2003,52
+Timor-Leste,2002,85
+Timor-Leste,2001,118
+Timor-Leste,2000,123
+Togo,2018,267
+Togo,2017,278
+Togo,2016,325
+Togo,2015,364
+Togo,2014,385
+Togo,2013,385
+Togo,2012,350
+Togo,2011,313
+Togo,2010,309
+Togo,2009,327
+Togo,2008,380
+Togo,2007,435
+Togo,2006,460
+Togo,2005,470
+Togo,2004,466
+Togo,2003,451
+Togo,2002,440
+Togo,2001,440
+Togo,2000,442
+Turkey,2018,0
+Turkey,2017,0
+Turkey,2016,0
+Turkey,2015,0
+Turkey,2014,0
+Turkey,2013,0
+Turkey,2012,0
+Turkey,2011,0
+Turkey,2010,0
+Turkey,2009,0
+Turkey,2008,0
+Turkey,2007,0
+Turkey,2006,0
+Turkey,2005,0
+Turkey,2004,1
+Turkey,2003,2
+Turkey,2002,2
+Turkey,2001,3
+Turkey,2000,3
+Turkmenistan,2018,0
+Turkmenistan,2017,0
+Turkmenistan,2016,0
+Turkmenistan,2015,0
+Turkmenistan,2014,0
+Turkmenistan,2013,0
+Turkmenistan,2012,0
+Turkmenistan,2011,0
+Turkmenistan,2010,0
+Turkmenistan,2009,0
+Turkmenistan,2008,0
+Turkmenistan,2007,0
+Turkmenistan,2006,0
+Turkmenistan,2005,0
+Turkmenistan,2004,0
+Turkmenistan,2003,0
+Turkmenistan,2002,0
+Turkmenistan,2001,0
+Turkmenistan,2000,0
+Uganda,2018,289
+Uganda,2017,337
+Uganda,2016,304
+Uganda,2015,236
+Uganda,2014,221
+Uganda,2013,254
+Uganda,2012,332
+Uganda,2011,386
+Uganda,2010,417
+Uganda,2009,434
+Uganda,2008,411
+Uganda,2007,378
+Uganda,2006,378
+Uganda,2005,405
+Uganda,2004,457
+Uganda,2003,492
+Uganda,2002,508
+Uganda,2001,516
+Uganda,2000,495
+United Arab Emirates,2018,0
+United Arab Emirates,2017,0
+United Arab Emirates,2016,0
+United Arab Emirates,2015,0
+United Arab Emirates,2014,0
+United Arab Emirates,2013,0
+United Arab Emirates,2012,0
+United Arab Emirates,2011,0
+United Arab Emirates,2010,0
+United Arab Emirates,2009,0
+United Arab Emirates,2008,0
+United Arab Emirates,2007,0
+United Arab Emirates,2006,0
+United Arab Emirates,2005,0
+United Arab Emirates,2004,0
+United Arab Emirates,2003,0
+United Arab Emirates,2002,0
+United Arab Emirates,2001,0
+United Arab Emirates,2000,0
+United Republic of Tanzania,2018,124
+United Republic of Tanzania,2017,124
+United Republic of Tanzania,2016,124
+United Republic of Tanzania,2015,122
+United Republic of Tanzania,2014,119
+United Republic of Tanzania,2013,112
+United Republic of Tanzania,2012,116
+United Republic of Tanzania,2011,133
+United Republic of Tanzania,2010,146
+United Republic of Tanzania,2009,157
+United Republic of Tanzania,2008,171
+United Republic of Tanzania,2007,185
+United Republic of Tanzania,2006,206
+United Republic of Tanzania,2005,229
+United Republic of Tanzania,2004,252
+United Republic of Tanzania,2003,277
+United Republic of Tanzania,2002,301
+United Republic of Tanzania,2001,331
+United Republic of Tanzania,2000,343
+Uzbekistan,2018,0
+Uzbekistan,2017,0
+Uzbekistan,2016,0
+Uzbekistan,2015,0
+Uzbekistan,2014,0
+Uzbekistan,2013,0
+Uzbekistan,2012,0
+Uzbekistan,2011,0
+Uzbekistan,2010,0
+Uzbekistan,2009,0
+Uzbekistan,2008,0
+Uzbekistan,2007,0
+Uzbekistan,2006,0
+Uzbekistan,2005,0
+Uzbekistan,2004,0
+Uzbekistan,2003,0
+Uzbekistan,2002,0
+Uzbekistan,2001,0
+Uzbekistan,2000,0
+Vanuatu,2018,4
+Vanuatu,2017,8
+Vanuatu,2016,15
+Vanuatu,2015,3
+Vanuatu,2014,9
+Vanuatu,2013,21
+Vanuatu,2012,34
+Vanuatu,2011,48
+Vanuatu,2010,66
+Vanuatu,2009,65
+Vanuatu,2008,119
+Vanuatu,2007,124
+Vanuatu,2006,107
+Vanuatu,2005,122
+Vanuatu,2004,162
+Vanuatu,2003,215
+Vanuatu,2002,189
+Vanuatu,2001,99
+Vanuatu,2000,125
+Venezuela (Bolivarian Republic of),2018,33
+Venezuela (Bolivarian Republic of),2017,33
+Venezuela (Bolivarian Republic of),2016,19
+Venezuela (Bolivarian Republic of),2015,11
+Venezuela (Bolivarian Republic of),2014,7
+Venezuela (Bolivarian Republic of),2013,6
+Venezuela (Bolivarian Republic of),2012,4
+Venezuela (Bolivarian Republic of),2011,4
+Venezuela (Bolivarian Republic of),2010,4
+Venezuela (Bolivarian Republic of),2009,3
+Venezuela (Bolivarian Republic of),2008,3
+Venezuela (Bolivarian Republic of),2007,4
+Venezuela (Bolivarian Republic of),2006,3
+Venezuela (Bolivarian Republic of),2005,4
+Venezuela (Bolivarian Republic of),2004,4
+Venezuela (Bolivarian Republic of),2003,3
+Venezuela (Bolivarian Republic of),2002,3
+Venezuela (Bolivarian Republic of),2001,2
+Venezuela (Bolivarian Republic of),2000,3
+Viet Nam,2018,0
+Viet Nam,2017,0
+Viet Nam,2016,0
+Viet Nam,2015,0
+Viet Nam,2014,0
+Viet Nam,2013,0
+Viet Nam,2012,0
+Viet Nam,2011,0
+Viet Nam,2010,0
+Viet Nam,2009,0
+Viet Nam,2008,0
+Viet Nam,2007,0
+Viet Nam,2006,1
+Viet Nam,2005,1
+Viet Nam,2004,1
+Viet Nam,2003,2
+Viet Nam,2002,2
+Viet Nam,2001,3
+Viet Nam,2000,3
+Yemen,2018,46
+Yemen,2017,42
+Yemen,2016,38
+Yemen,2015,25
+Yemen,2014,29
+Yemen,2013,36
+Yemen,2012,45
+Yemen,2011,43
+Yemen,2010,63
+Yemen,2009,40
+Yemen,2008,32
+Yemen,2007,51
+Yemen,2006,38
+Yemen,2005,33
+Yemen,2004,32
+Yemen,2003,41
+Yemen,2002,47
+Yemen,2001,49
+Yemen,2000,47
+Zambia,2018,157
+Zambia,2017,160
+Zambia,2016,181
+Zambia,2015,203
+Zambia,2014,223
+Zambia,2013,226
+Zambia,2012,203
+Zambia,2011,187
+Zambia,2010,177
+Zambia,2009,172
+Zambia,2008,177
+Zambia,2007,196
+Zambia,2006,223
+Zambia,2005,256
+Zambia,2004,299
+Zambia,2003,339
+Zambia,2002,364
+Zambia,2001,391
+Zambia,2000,386
+Zimbabwe,2018,51
+Zimbabwe,2017,109
+Zimbabwe,2016,66
+Zimbabwe,2015,98
+Zimbabwe,2014,102
+Zimbabwe,2013,82
+Zimbabwe,2012,57
+Zimbabwe,2011,71
+Zimbabwe,2010,109
+Zimbabwe,2009,91
+Zimbabwe,2008,75
+Zimbabwe,2007,175
+Zimbabwe,2006,118
+Zimbabwe,2005,119
+Zimbabwe,2004,120
+Zimbabwe,2003,121
+Zimbabwe,2002,122
+Zimbabwe,2001,122
+Zimbabwe,2000,123
